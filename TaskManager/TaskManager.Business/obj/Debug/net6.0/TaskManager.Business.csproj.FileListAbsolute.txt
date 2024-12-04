@@ -1,0 +1,17 @@
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\bin\Debug\net6.0\TaskManager.Business.deps.json
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\bin\Debug\net6.0\TaskManager.Business.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\bin\Debug\net6.0\TaskManager.Business.pdb
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\bin\Debug\net6.0\TaskManager.Data.Access.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\bin\Debug\net6.0\TaskManager.Entities.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\bin\Debug\net6.0\TaskManager.Data.Access.pdb
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\bin\Debug\net6.0\TaskManager.Entities.pdb
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.csproj.AssemblyReference.cache
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.AssemblyInfoInputs.cache
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.AssemblyInfo.cs
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.csproj.CoreCompileInputs.cache
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\refint\TaskManager.Business.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.pdb
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\ref\TaskManager.Business.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Business\obj\Debug\net6.0\TaskManager.Business.csproj.CopyComplete

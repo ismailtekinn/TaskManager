@@ -1,0 +1,17 @@
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.csproj.AssemblyReference.cache
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.AssemblyInfoInputs.cache
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.AssemblyInfo.cs
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\bin\Debug\net6.0\TaskManager.Data.Access.deps.json
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\bin\Debug\net6.0\TaskManager.Data.Access.runtimeconfig.json
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\bin\Debug\net6.0\TaskManager.Data.Access.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\bin\Debug\net6.0\TaskManager.Data.Access.pdb
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\bin\Debug\net6.0\TaskManager.Entities.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\bin\Debug\net6.0\TaskManager.Entities.pdb
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\refint\TaskManager.Data.Access.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.pdb
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.genruntimeconfig.cache
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\ref\TaskManager.Data.Access.dll
+C:\Users\tknis\Documents\TaskManager\TaskManager.Data.Access\obj\Debug\net6.0\TaskManager.Data.Access.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BiNyLnvSJJ/sCLf5jONDzR/xnATalWL02GuEW8HW08I=",
+  "Source": "TaskManager.WebAPI",
+  "BasePath": "_content/TaskManager.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
